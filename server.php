@@ -1,4 +1,4 @@
 <?php
-$diskArray = file_get_contents('./json/diskArray.json');
+$albumArray = file_get_contents('./json/albumArray.json');
 header('Content-Type: application/json');
-echo $diskArray;
+echo $albumArray;

@@ -17,10 +17,21 @@
 <body>
 
     <div id="app">
-        <p>prova</p>
-        <form action="./server.php" method="get">
-            <input type="text" id="name" name="name">
-        </form>
+        <div class="container">
+            <div class="row">
+                <div class="col-3">
+                    <div class="card" style="width: 18rem;">
+                        <img src="..." class="card-img-top" alt="...">
+                        <div class="card-body text-center">
+                            <p class="card-text">nome album</p>
+                            <p class="card-text">nome artista</p>
+                            <p class="card-text">anno uscita</p>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
 
     </div>
 

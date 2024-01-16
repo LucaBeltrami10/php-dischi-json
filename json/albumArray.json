@@ -10,31 +10,31 @@
             "album_name": "The Dark Side of the Moon",
             "artist_name": "Pink Floyd",
             "release_year": 1973,
-            "cover_image": "dark_side_of_the_moon.jpg"
+            "cover_image": "Pink_Floyd_Dark_Side_of_the_Moon_San_Francisco_Art_Exchange.jpg"
         },
         {
             "album_name": "Thriller",
             "artist_name": "Michael Jackson",
             "release_year": 1982,
-            "cover_image": "thriller.jpg"
+            "cover_image": "Michael_Jackson_-_Thriller.png"
         },
         {
             "album_name": "Back in Black",
             "artist_name": "AC/DC",
             "release_year": 1980,
-            "cover_image": "back_in_black.jpg"
+            "cover_image": "acdc.jpeg"
         },
         {
             "album_name": "Rumours",
             "artist_name": "Fleetwood Mac",
             "release_year": 1977,
-            "cover_image": "rumours.jpg"
+            "cover_image": "images.jpeg"
         },
         {
             "album_name": "The Wall",
             "artist_name": "Pink Floyd",
             "release_year": 1979,
-            "cover_image": "the_wall.jpg"
+            "cover_image": "the-wall-album-cover.jpg"
         }
     ]
 }

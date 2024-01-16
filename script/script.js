@@ -4,7 +4,7 @@ createApp({
     data() {
         return {
             apiUrl: 'server.php',
-            diskArray: [],
+            albumArray: [],
 
         }
     },
@@ -12,9 +12,9 @@ createApp({
     methods: {
         getApiList() {
             axios.get(this.apiUrl).then((response) => {
-                this.diskArray = response.data;
+                this.albumArray = response.data.albums;
 
-                console.log(response.data);
+                console.log(response.data.albums);
             });
         },
 

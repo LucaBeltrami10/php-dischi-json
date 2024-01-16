@@ -1,22 +1,40 @@
 {
-    "books": [
+    "albums": [
         {
-            "id": 1,
-            "title": "Il Signore degli Anelli",
-            "author": "J.R.R. Tolkien",
-            "publishedYear": 1954
+            "album_name": "Abbey Road",
+            "artist_name": "The Beatles",
+            "release_year": 1969,
+            "cover_image": "abbey_road.jpg"
         },
         {
-            "id": 2,
-            "title": "Harry Potter e la Pietra Filosofale",
-            "author": "J.K. Rowling",
-            "publishedYear": 1997
+            "album_name": "The Dark Side of the Moon",
+            "artist_name": "Pink Floyd",
+            "release_year": 1973,
+            "cover_image": "dark_side_of_the_moon.jpg"
         },
         {
-            "id": 3,
-            "title": "1984",
-            "author": "George Orwell",
-            "publishedYear": 1949
+            "album_name": "Thriller",
+            "artist_name": "Michael Jackson",
+            "release_year": 1982,
+            "cover_image": "thriller.jpg"
+        },
+        {
+            "album_name": "Back in Black",
+            "artist_name": "AC/DC",
+            "release_year": 1980,
+            "cover_image": "back_in_black.jpg"
+        },
+        {
+            "album_name": "Rumours",
+            "artist_name": "Fleetwood Mac",
+            "release_year": 1977,
+            "cover_image": "rumours.jpg"
+        },
+        {
+            "album_name": "The Wall",
+            "artist_name": "Pink Floyd",
+            "release_year": 1979,
+            "cover_image": "the_wall.jpg"
         }
     ]
 }

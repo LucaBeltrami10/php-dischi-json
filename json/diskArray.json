@@ -1,0 +1,22 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Il Signore degli Anelli",
+            "author": "J.R.R. Tolkien",
+            "publishedYear": 1954
+        },
+        {
+            "id": 2,
+            "title": "Harry Potter e la Pietra Filosofale",
+            "author": "J.K. Rowling",
+            "publishedYear": 1997
+        },
+        {
+            "id": 3,
+            "title": "1984",
+            "author": "George Orwell",
+            "publishedYear": 1949
+        }
+    ]
+}

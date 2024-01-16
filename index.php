@@ -16,7 +16,8 @@
 
 <body>
 
-    <div class="app">
+    <div id="app">
+        <p>prova</p>
 
     </div>
 

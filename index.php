@@ -18,6 +18,9 @@
 
     <div id="app">
         <p>prova</p>
+        <form action="./server.php" method="get">
+            <input type="text" id="name" name="name">
+        </form>
 
     </div>
 
